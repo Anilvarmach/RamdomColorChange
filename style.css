@@ -1,0 +1,31 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+div{
+    border: 2px solid #557875;
+    padding: 100px;
+    margin: 100px;
+    background-color: #51c2d5;
+}
+/* p{
+    text-transform: capitalize;
+    text-align: justify;
+    color: wheat;
+} */
+
+button{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,50%);
+    padding: 10px;
+    background: #ffffff;
+    border: none;
+    outline: none;
+    font-size: 18px;
+    text-transform: uppercase;
+    cursor: pointer;
+}
