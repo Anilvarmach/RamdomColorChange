@@ -28,4 +28,6 @@ button{
     font-size: 18px;
     text-transform: uppercase;
     cursor: pointer;
+    color: teal;
+    background-color: black;
 }
